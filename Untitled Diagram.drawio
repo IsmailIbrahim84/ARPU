@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T12:26:32.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="Y6r-rRbxGHY5os5qrkN-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T12:30:04.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="x9fl3QTCmFwDOqBjKzU-" type="github">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
         <mxCell id="Iq4nOUnd489xoeEo6U0S-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
           <mxGeometry x="531" y="120.59" width="54" height="79.41" as="geometry" />
         </mxCell>
-        <mxCell id="Iq4nOUnd489xoeEo6U0S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;entryX=0.781;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Iq4nOUnd489xoeEo6U0S-13" source="Iq4nOUnd489xoeEo6U0S-7">
+        <mxCell id="Iq4nOUnd489xoeEo6U0S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;entryX=0.781;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Iq4nOUnd489xoeEo6U0S-13">
           <mxGeometry x="1" y="-130" relative="1" as="geometry">
             <mxPoint x="730" y="500" as="targetPoint" />
-            <mxPoint x="765" y="350" as="sourcePoint" />
+            <mxPoint x="750" y="370" as="sourcePoint" />
             <mxPoint x="-50" y="10" as="offset" />
             <Array as="points">
               <mxPoint x="750" y="418" />
@@ -37,19 +37,24 @@
         <mxCell id="Iq4nOUnd489xoeEo6U0S-8" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="700" y="430.29" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Iq4nOUnd489xoeEo6U0S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;startArrow=none;" edge="1" parent="1" source="Iq4nOUnd489xoeEo6U0S-20" target="Iq4nOUnd489xoeEo6U0S-13">
+        <mxCell id="Iq4nOUnd489xoeEo6U0S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;startArrow=none;" edge="1" parent="1" target="Iq4nOUnd489xoeEo6U0S-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="690" as="targetPoint" />
+            <mxPoint x="170" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="730" />
+              <mxPoint x="390" y="691" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-10" value="&lt;b&gt;UFone CBS Charging&lt;/b&gt;&lt;br&gt;IP xxx.xxx.xxx.xxx" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="35.43" y="710" width="74" height="74" as="geometry" />
+          <mxGeometry x="90.4" y="699.7" width="74" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/UserDefinedRoute.svg;" vertex="1" parent="1">
-          <mxGeometry x="780" y="240" width="50" height="50" as="geometry" />
+          <mxGeometry x="770" y="220" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-12" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/UserDefinedRoute.svg;" vertex="1" parent="1">
-          <mxGeometry x="525" y="60" width="50" height="50" as="geometry" />
+          <mxGeometry x="572.5" y="90.3" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;" edge="1" parent="1" source="Iq4nOUnd489xoeEo6U0S-13" target="Iq4nOUnd489xoeEo6U0S-3">
           <mxGeometry relative="1" as="geometry">
@@ -68,7 +73,7 @@
           <mxGeometry x="336" y="430.29" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-16" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="699.7" width="50" height="50" as="geometry" />
+          <mxGeometry x="280" y="673" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-18" value="VPN Connection" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" vertex="1" parent="1">
           <mxGeometry x="1019.9999999999999" y="590" width="50" height="28.000000000000004" as="geometry" />
@@ -83,10 +88,10 @@
           <mxGeometry x="995.29" y="672.7" width="63.14" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;í ½í²¡ User subscribe through Mobile (MO/USSD).&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="90.30000000000001" width="120" height="69.41" as="geometry" />
+          <mxGeometry x="450" y="80.59" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-25" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MO/USSD Connections&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="110.00000000000003" width="120" height="69.41" as="geometry" />
+          <mxGeometry x="307.5" y="140.30000000000004" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-26" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;MT SMSC Connection for BULK/MT to user Mobile&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="90.3" width="100" height="69.41" as="geometry" />
@@ -131,19 +136,13 @@
           <mxGeometry x="780" y="723" width="50" height="28.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;í ½í²¡ User subscribe through Portal.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280.58" width="120" height="69.41" as="geometry" />
+          <mxGeometry x="780" y="256.77" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-37" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="427.5" y="340" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="120.00000000000001" y="710" width="63.14" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="Iq4nOUnd489xoeEo6U0S-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;endArrow=none;" edge="1" parent="1" source="Iq4nOUnd489xoeEo6U0S-10" target="Iq4nOUnd489xoeEo6U0S-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="608.6399999999999" y="691.3599999999999" as="targetPoint" />
-            <mxPoint x="92" y="747" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="35.43" y="699.6999999999999" width="63.14" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
