@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T12:19:58.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="FcD7YatyzQHCUPfNEweO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T12:20:25.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="ivmK9lMd3rp8lXU7GzCy" type="github">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="336" y="430.29" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-16" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="677.36" width="50" height="50" as="geometry" />
+          <mxGeometry x="286" y="689.99" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-18" value="VPN Connection" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" vertex="1" parent="1">
           <mxGeometry x="1019.9999999999999" y="590" width="50" height="28.000000000000004" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="780" y="280.58" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-37" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="349.99" width="50" height="50" as="geometry" />
+          <mxGeometry x="407.5" y="340" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
