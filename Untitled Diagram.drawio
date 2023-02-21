@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T12:23:48.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="_xqOsRhBm-2lzizmE6vU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T12:26:32.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="Y6r-rRbxGHY5os5qrkN-" type="github">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="336" y="430.29" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-16" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="286" y="689.99" width="50" height="50" as="geometry" />
+          <mxGeometry x="287.5" y="699.7" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-18" value="VPN Connection" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" vertex="1" parent="1">
           <mxGeometry x="1019.9999999999999" y="590" width="50" height="28.000000000000004" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="397.5" y="680.29" width="145" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-29" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;OptIn (HE)/OptOut/ Send Pin/Verify Pin&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Trhough APIs Requests&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485.5" y="351.17999999999995" width="145" height="69.41" as="geometry" />
+          <mxGeometry x="477.5" y="330.29999999999995" width="145" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-30" value="&lt;b&gt;UFone SMSGateway&amp;nbsp;&lt;/b&gt;&lt;br&gt;IP xxx.xxx.xxx.xx" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="1020.0000000000002" y="390" width="84.4" height="84.4" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="780" y="280.58" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-37" value="API Connections" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Connections.svg;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="340" width="50" height="50" as="geometry" />
+          <mxGeometry x="427.5" y="340" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iq4nOUnd489xoeEo6U0S-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="120.00000000000001" y="710" width="63.14" height="77" as="geometry" />
