@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T15:28:14.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VRoCBqqNDKkmvAS2ibNv" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-03T15:44:16.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6zyZwxnSWImxleRS18AY" version="22.0.2" type="github" pages="4">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="2598" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="40" y="720" width="1100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-1" value="BI Jobs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=1;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
-          <mxGeometry x="850" y="610" width="290" height="60" as="geometry" />
+          <mxGeometry x="830" y="620" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-2" value="Daily Uploader Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="240" y="600" width="90" height="60" as="geometry" />
@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-33" value="MuzicUP Core" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FF9999;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
-          <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.68;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-33" target="UupQosg42-_fohMUtWr8-0">
           <mxGeometry relative="1" as="geometry">
