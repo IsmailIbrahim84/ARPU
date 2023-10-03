@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T14:15:09.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="szWz7vGnQiRW0azZM2C-" version="22.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-03T15:28:14.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VRoCBqqNDKkmvAS2ibNv" version="22.0.2" type="github" pages="4">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="2598" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MuzicUP Components Architecture" id="W1YoEjwqq9jiVjFT_SSB">
-    <mxGraphModel dx="2598" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="wuGOkdKwMO8VdwPY9DZF-0" />
         <mxCell id="wuGOkdKwMO8VdwPY9DZF-1" parent="wuGOkdKwMO8VdwPY9DZF-0" />
@@ -167,7 +167,7 @@
           <mxGeometry x="40" y="720" width="1100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-1" value="BI Jobs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=1;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
-          <mxGeometry x="880" y="610" width="260" height="60" as="geometry" />
+          <mxGeometry x="850" y="610" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-2" value="Daily Uploader Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="240" y="600" width="90" height="60" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="UupQosg42-_fohMUtWr8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-5" target="UupQosg42-_fohMUtWr8-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UupQosg42-_fohMUtWr8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-2" target="UupQosg42-_fohMUtWr8-0">
+        <mxCell id="UupQosg42-_fohMUtWr8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.278;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-2" target="UupQosg42-_fohMUtWr8-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.398;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-3" target="UupQosg42-_fohMUtWr8-0">
@@ -245,14 +245,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UupQosg42-_fohMUtWr8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-24" target="UupQosg42-_fohMUtWr8-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="360" />
-              <mxPoint x="130" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-24" value="MuzicUP Dashboard Views" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B9E0A5;" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -287,14 +279,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UupQosg42-_fohMUtWr8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-30" target="UupQosg42-_fohMUtWr8-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="340" />
-              <mxPoint x="90" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -349,8 +333,24 @@
         <mxCell id="UupQosg42-_fohMUtWr8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XoN344toEcxckZrcJ9AQ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="400" />
+              <mxPoint x="480" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XoN344toEcxckZrcJ9AQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="400" />
+              <mxPoint x="330" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-45" value="Microsoft Authenctication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
-          <mxGeometry x="40" y="384" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-49" target="UupQosg42-_fohMUtWr8-25">
           <mxGeometry relative="1" as="geometry" />
@@ -372,9 +372,6 @@
         <mxCell id="UupQosg42-_fohMUtWr8-50" value="Internal User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="150" y="112.34" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UupQosg42-_fohMUtWr8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-54" target="UupQosg42-_fohMUtWr8-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-54" value="MuzicUP Data Management View" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B9E0A5;" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -386,6 +383,20 @@
         <mxCell id="UupQosg42-_fohMUtWr8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-50" target="UupQosg42-_fohMUtWr8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XoN344toEcxckZrcJ9AQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.504;entryY=1.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoN344toEcxckZrcJ9AQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fL0U58YV1vR_JYJptrau" name="Page-4">
+    <mxGraphModel dx="2598" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
