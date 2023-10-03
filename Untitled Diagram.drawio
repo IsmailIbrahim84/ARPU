@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T13:57:32.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uITp65cXcjr9celhYgqf" version="22.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-03T14:14:43.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MfHG6pGvy1P7rqv1DVeX" version="22.0.2" type="github" pages="3">
   <diagram id="XFZ-hpoHR0-XpEFwu2nl" name="Page-1">
     <mxGraphModel dx="2598" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -308,6 +308,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UupQosg42-_fohMUtWr8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-33" target="UupQosg42-_fohMUtWr8-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="530" />
+              <mxPoint x="100" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-33" value="MuzicUP Core" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FF9999;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -328,6 +336,9 @@
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-42" value="Logging &lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="1000" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UupQosg42-_fohMUtWr8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-45" target="UupQosg42-_fohMUtWr8-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-45" value="Microsoft Authenctication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="40" y="384" width="120" height="60" as="geometry" />
@@ -351,6 +362,9 @@
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-50" value="Internal User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="150" y="112.34" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UupQosg42-_fohMUtWr8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wuGOkdKwMO8VdwPY9DZF-1" source="UupQosg42-_fohMUtWr8-54" target="UupQosg42-_fohMUtWr8-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UupQosg42-_fohMUtWr8-54" value="MuzicUP Data Management View" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B9E0A5;" vertex="1" parent="wuGOkdKwMO8VdwPY9DZF-1">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
